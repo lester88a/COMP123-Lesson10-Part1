@@ -16,7 +16,7 @@ namespace COMP123_Lesson10_Part1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SalesForm());
+            Application.Run(new OptionsForm());
         }
     }
 }
