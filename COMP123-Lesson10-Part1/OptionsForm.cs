@@ -41,7 +41,7 @@ namespace COMP123_Lesson10_Part1
             if (DefaultRadioButton.Checked==true)
             {
                 //optionForm.BackColor = Color.GhostWhite;
-                ActiveForm.BackColor = SystemColors;
+                ActiveForm.BackColor = SystemColors.Window;
                 ActiveForm.ForeColor = Color.White;
             }
             else if (BlueRadioButton.Checked==true)
